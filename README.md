@@ -19,7 +19,7 @@ TalentScout is an AI-powered hiring assistant designed to streamline the initial
 ### Prerequisites
 
 - Python 3.8+
-- OpenAI API key
+- Gemini API key
 
 ### Setup
 
@@ -40,7 +40,7 @@ TalentScout is an AI-powered hiring assistant designed to streamline the initial
    pip install -r requirements.txt
    ```
 
-4. Create a `.env` file in the project root and add your OpenAI API key:
+4. Create a `.env` file in the project root and add your Gemini API key:
    ```
    GEMINI_API_KEY=your_openai_api_key_here
    ```
