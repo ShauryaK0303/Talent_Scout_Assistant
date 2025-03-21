@@ -42,7 +42,7 @@ TalentScout is an AI-powered hiring assistant designed to streamline the initial
 
 4. Create a `.env` file in the project root and add your Gemini API key:
    ```
-   GEMINI_API_KEY=your_openai_api_key_here
+   GEMINI_API_KEY=your_gemini_api_key_here
    ```
 
 ## Usage Guide
@@ -104,4 +104,4 @@ The prompt engineering approach focuses on:
 
 ## License
 
-This project is licensed under the  License - see the LICENSE file for details.
+This project is licensed under the ISC License - see the LICENSE file for details.
